@@ -1,0 +1,291 @@
+.main-img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.cany {
+    width: 1400px;
+    height: 420px;
+    background-image: url("images/g-img-0.webp");
+    margin-top: 50px;
+}
+
+.head-1 {
+    font-family: 'Josefin Sans';
+    font-size: 60px;
+    color: white;
+    cursor: pointer;
+}
+
+.subhead-1 {
+    font-family: 'silkscreen';
+    font-size: 20px;
+    color: white;
+    opacity: .7;
+    cursor: pointer;
+}
+
+body {
+    background-color: #060606;
+    overflow-x: hidden;
+}
+
+.about-me {
+    font-family: 'Josefin Sans';
+    font-size: 60px;
+    color: white;
+    margin-bottom: 100px;
+    margin-top: 80px;
+}
+
+.about-me-text {
+    font-family: 'silkscreen';
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+.main-container {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.background-txt {
+    font-family: 'silkscreen';
+    font-size: 22px;
+    color: white;
+    text-align: justify;
+    display: inline-block;
+}
+
+.dino-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 55px;
+}
+
+hr {
+    color: white;
+    margin-top: 95px;
+}
+
+.contact-txt {
+    font-family: 'Josefin Sans';
+    font-size: 25px;
+    color: white;
+    margin-top: 25px;
+}
+
+.bottom-container {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.icons-2 {
+    width: 45px;
+    margin-left: 25px;
+}
+
+.work-img {
+    width: 40%;
+    height: auto;
+    border-radius: 55px;
+    cursor: pointer;
+}
+
+.work-heading {
+    font-family: 'silkscreen';
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contact-slogan {
+    font-family: 'silkscreen';
+    font-size: 25px;
+}
+
+.skill-icon {
+    width: 85px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.skill-txt {
+    font-family: 'silkscreen';
+    color: white;
+    font-size: 20px;
+    align-self: center;
+    cursor: pointer;
+}
+
+.nav-txt:hover,
+.nav-h:hover {
+    color: #9600ff;
+}
+
+.nav-txt {
+    font-family: 'silkscreen';
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.nav-h {
+    font-family: 'Josefin Sans';
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.expert-txt {
+    font-family: "Josefin Sans";
+    color: white;
+    font-size: 60px;
+}
+
+.work-img1 {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 55px;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+
+.project-txt {
+    font-family: 'silkscreen';
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#style-3::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
+
+@media only screen and (max-width: 991px) {
+    .head-1 {
+        text-align: center;
+    }
+    .subhead-1 {
+        text-align: center;
+        font-size: 14px;
+    }
+    .main-img {
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .about-me {
+        font-size: 40px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .about-me-text {
+        font-size: 16px;
+    }
+    .background-txt {
+        font-size: 16px;
+    }
+    .skill-txt {
+        font-size: 16px;
+    }
+    .skill-icon {
+        width: 70px;
+    }
+    .expert-txt {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .project-txt {
+        font-size: 14px;
+        text-align: left;
+    }
+    .contact-slogan {
+        font-size: 21px;
+    }
+    .contact-txt {
+        font-size: 19px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .cany {
+        width: 600px;
+        height: 400px;
+        background-image: url("images/g-img-0.webp");
+        margin-top: 50px;
+    }
+    .head-1 {
+        font-size: 40px;
+    }
+    .subhead-1 {
+        font-size: 12px;
+    }
+    .main-img {
+        width: 90%;
+    }
+    .about-me {
+        font-size: 28px;
+    }
+    .about-me-text {
+        font-size: 12px;
+    }
+    .background-txt {
+        font-size: 12px;
+    }
+    .skill-txt {
+        font-size: 12px;
+    }
+    .skill-icon {
+        width: 60px;
+    }
+    .expert-txt {
+        font-size: 28px;
+    }
+    .project-txt {
+        font-size: 12px;
+        text-align: left;
+    }
+    .contact-slogan {
+        font-size: 18px;
+    }
+    .contact-txt {
+        font-size: 14px;
+    }
+    .icons-2 {
+        width: 40px;
+    }
+}
+
+#canvas {
+    width: 100%;
+    height: 100%;
+    background-image: url("images/g-img-0.webp");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
