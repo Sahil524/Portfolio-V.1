@@ -1,0 +1,45 @@
+# Sahil Sawant — Portfolio V1
+
+> Portfolio V1 of Sahil Sawant, Full Stack AI Developer and AI Systems Architect based in Mumbai, India. This is the legacy first iteration of the personal portfolio.
+
+**Identity & Creator**
+* Full Name: Sahil Sawant
+* Professional Title: Full Stack AI Developer & AI Systems Architect
+* Location: Mumbai, Maharashtra, India
+* Email: sahilsawant182@gmail.com
+* Phone: +91 9082056583
+
+**Education**
+* Thakur College of Engineering and Technology (2021–2024): Bachelor's degree in Artificial Intelligence and Data Science.
+* Sathaye College (2019–2021): Higher Secondary Education (HSC — Science).
+
+**Technical Stack**
+* AI & ML Foundations: Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing.
+* Frontend: HTML5, CSS3, JavaScript, Bootstrap.
+* Backend & Databases: Node.js, Python, SQL, MySQL.
+* Tools & Deployment: Git, Web Performance Optimization, Basic SEO.
+
+**Portfolio V1 Specific Features**
+* Legacy Implementation: Static web architecture establishing initial digital presence.
+* Focus: Core project showcase and direct contact information routing without heavy client-side frameworks.
+
+## Profiles
+
+- [Canonical Website](https://sahilsawant.dev/): Sahil's official professional website.
+- [Canonical Identity Reference](https://sahilsawant.dev/#person): Schema.org identity reference.
+- [LinkedIn](https://www.linkedin.com/in/sahilsawant182/): Professional network profile.
+- [GitHub](https://github.com/Sahil524): Source code repositories.
+
+## Projects
+
+- [Portfolio V1 Live](https://sahil524.github.io/Portfolio-V.1/): The live deployment of the V1 portfolio.
+- [Portfolio V1 Repository](https://github.com/Sahil524/Portfolio-V.1): Source code for the legacy V1 build.
+- [FitRealm](https://thefitrealm.in/): AI-powered fitness intelligence platform.
+- [AVI Core](https://github.com/Sahil524/AVI-Core): Open-source Windows media toolkit.
+- [TGBS Mumbai](https://tgbsmumbai.in/): Web platform developed for Thakur Educational Group.
+- [Kirana Friends](https://kiranafriends.com/): Web platform designed for merchant workflows.
+
+## Optional
+
+- [Portfolio V2](https://sahil524.github.io/Portfolio-V.2/): Legacy portfolio iteration 2 (3D Interactive).
+- [Portfolio V3](https://sahil524.github.io/Portfolio-V.3/): Legacy portfolio iteration 3.

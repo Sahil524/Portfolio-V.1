@@ -289,3 +289,34 @@ hr {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.btn-container {
+    margin-top: 25px;
+    text-align: left;
+}
+
+.btn-about {
+    font-family: 'silkscreen';
+    font-size: 16px;
+    color: white;
+    background: transparent;
+    border: 2px solid #9600ff;
+    border-radius: 8px;
+    padding: 10px 24px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-about:hover {
+    color: white;
+    background: #9600ff;
+    box-shadow: 0 0 15px #9600ff;
+    transform: translateY(-2px);
+}
+
+@media only screen and (max-width: 991px) {
+    .btn-container {
+        text-align: center;
+    }
+}
